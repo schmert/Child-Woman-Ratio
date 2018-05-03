@@ -7,7 +7,7 @@ This repository contains data and code for replicating **Bayesian estimation of 
 ### R programs include...
 
 * **Stan Kanamari - final version.R** 
-(data and model for the Kanamari do Rio Juruá Brazilian indigenous populationç makes Fig 4)
+(data and model for the Kanamari do Rio Juruá Brazilian indigenous population; makes Fig 4)
 
 * **Stan GA 2010 counties.R**
 (data and hierarchical model for 159 counties in the state of Georgia)
